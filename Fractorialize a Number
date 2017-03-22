@@ -1,0 +1,1 @@
+function factorialize(num) {  var product = 1;    for (var a = 1; a < (num + 1); a++) {    product *= a;  }  return product;}factorialize(5);
