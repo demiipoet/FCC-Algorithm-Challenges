@@ -1,6 +1,6 @@
 
 function palindrome(str) {
-  var justStr = str.replace(/\W+|\_/gi, "").toLowerCase();
+  var justStr = str.replace(/[\W_]/gi, "").toLowerCase();
   
   if (justStr === justStr.split("").reverse().join("")) {
     return true;
