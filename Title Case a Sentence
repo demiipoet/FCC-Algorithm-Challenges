@@ -9,6 +9,6 @@ function titleCase(str) {
   }
   capStr = capArr.join(' ');
   return capStr;
-};
+}
 
 titleCase("I'm a little TEA pot"); //Returns "I'm A Little Tea Pot"
