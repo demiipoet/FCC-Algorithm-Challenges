@@ -1,4 +1,3 @@
-
 function confirmEnding(str, target) {
   var endStr = str.substr(-target.length);
   
