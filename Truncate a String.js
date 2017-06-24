@@ -1,4 +1,3 @@
-
 function truncateString(str, num) {
   
   if (num > 3 && num >= str.length) {
