@@ -1,4 +1,3 @@
-
 function largestOfFour(arr) {
   var results = [];
   
