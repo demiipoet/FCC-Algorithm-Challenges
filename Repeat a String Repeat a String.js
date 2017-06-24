@@ -1,4 +1,3 @@
-
 function repeatStringNumTimes(str, num) {
   
   if (str.length >= 0) {
