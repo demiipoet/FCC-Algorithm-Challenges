@@ -1,4 +1,3 @@
-
 function titleCase(str) {
   var splitStr = str.toLowerCase().split(' ');
   var capArr = [];
