@@ -8,4 +8,4 @@ function palindrome(str) {
   }
 }
 
-palindrome("Rac#eCa_R"); //Returns "racecar"
+palindrome("Rac#eCa_R"); //Returns true
