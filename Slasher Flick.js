@@ -1,3 +1,5 @@
+//Return the remaining elements of an array after removing n elements from the beginning of the array
+
 function slasher(arr, howMany) {
   
   return arr.slice(howMany);
