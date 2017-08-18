@@ -1,3 +1,5 @@
+//Return the factorial of the provided integer
+
 function fractorialize(num) {
   var product = 1;
   
