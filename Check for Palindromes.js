@@ -1,3 +1,5 @@
+//Checks for palindromes
+
 function palindrome(str) {
   var justStr = str.replace(/[\W_]/gi, "").toLowerCase();
   
