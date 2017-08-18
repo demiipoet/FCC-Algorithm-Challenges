@@ -1,3 +1,5 @@
+//Return the length of the longest word in the provided sentence
+
 function findLongestWord(str) {
   var longest = 0;
   var argh = str.split(' ');
