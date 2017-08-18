@@ -1,3 +1,5 @@
+//Return the provided string with the first letter of each word capitalized
+
 function titleCase(str) {
   var splitStr = str.toLowerCase().split(' ');
   var capArr = [];
