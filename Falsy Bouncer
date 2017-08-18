@@ -7,4 +7,4 @@ function bouncer(arr) {
   return trueValues;
 }
 
-bouncer([7, "ate", "", false, 9]);
+bouncer([7, "ate", "", false, 9]); //Returns [7, "ate", 9]
